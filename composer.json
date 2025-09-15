@@ -1,0 +1,20 @@
+{
+    "name": "smartstak/task-tracker",
+    "description": "User will be able to manange task from cli.",
+    "type": "project",
+    "require": {
+        "php": "^8.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smartstak\\TaskTracker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tushar Sharma",
+            "email": "smartstak@gmail.com"
+        }
+    ]
+}
