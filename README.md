@@ -2,6 +2,9 @@
 
 A simple command-line task tracker written in PHP. Manage your to-do, in-progress, and done tasks directly from your terminal.
 
+## Project URL
+https://github.com/smartstak/task-tracker
+
 ## Features
 
 - Add new tasks
